@@ -5,7 +5,7 @@
   using System.Drawing;
   using System.Threading;
 
-  namespace Strategy {
+  namespace StrategySorting {
   
     // Strategy Pattern    by  Judith Bishop and D-J Miller Sept 2007
     // Gives a choice of sort routines to display

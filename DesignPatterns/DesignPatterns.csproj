@@ -88,6 +88,8 @@
     <Compile Include="proxy-theory.cs" />
     <Compile Include="state-game.cs" />
     <Compile Include="state-theory.cs" />
+    <Compile Include="strategy-real.cs" />
+    <Compile Include="strategy-structural.cs" />
     <Compile Include="strategy-sorting.cs" />
     <Compile Include="strategy-theory.cs" />
     <Compile Include="templatemethod-theory.cs" />

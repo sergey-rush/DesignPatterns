@@ -1,6 +1,6 @@
 ﻿  using System;
 
-namespace StrategyPattern
+namespace StrategyTheory
 {
     // Strategy Pattern    by  Judith Bishop         Oct 2007
     // Shows two strategies and a random switch between them
