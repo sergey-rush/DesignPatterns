@@ -93,6 +93,7 @@
     <Compile Include="strategy-sorting.cs" />
     <Compile Include="strategy-theory.cs" />
     <Compile Include="templatemethod-theory.cs" />
+    <Compile Include="visitor-structural.cs" />
     <Compile Include="visitor-course.cs" />
     <Compile Include="visitor-theory-reflection.cs" />
     <Compile Include="visitor-theory.cs" />

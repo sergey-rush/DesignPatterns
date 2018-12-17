@@ -5,7 +5,7 @@
     // in two ways - for printing and for collecting elements in groups
     // using dynamic-dispatch
 
-namespace ObjectStructureVisitorPattern
+namespace VisitorTheory
 {
     abstract class IElement
     {

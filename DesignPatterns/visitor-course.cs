@@ -170,9 +170,9 @@ namespace VisitorCourse
         {
             string rules = "COS333 L2 L2 L2 L2 L2 M25 (L40 T60 ) L10 E55 (L28 T73 ) ";
 
-            Context context;
+            
             Console.WriteLine(rules + "\n");
-            context = new Context(rules);
+            Context context = new Context(rules);
             Element course = new Course(context);
             course.Parse(context);
 
